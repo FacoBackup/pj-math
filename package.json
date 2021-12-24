@@ -1,0 +1,31 @@
+{
+  "name": "pj-math",
+  "version": "0.0.6-alpha",
+  "author": "facobackup",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "source": "src/index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {},
+  "peerDependencies": {},
+  "devDependencies": {
+  },
+  "files": [
+    "src"
+  ],
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacoBackup/pj-math.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/FacoBackup/pj-math/issues"
+  },
+  "homepage": "https://github.com/FacoBackup/pj-math",
+  "directories": {
+  }
+}
